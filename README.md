@@ -1,10 +1,10 @@
 SIMPLE PYTHON CALCULATOR
 A Basic command-line calculator written in python.
 It supports the following operations:
-  # Addition
-  # Subractioon 
-  # Multiplication
-  # Division
+  - Addition
+  - Subractioon 
+  - Multiplication
+  - Division
 HOW TO USE 
   1. Make sure you have installed Python.
   2. Run the script
@@ -20,5 +20,5 @@ My Simple Calculator Select the type of operation:
               The answer is 6.0
 
 NOTES 
-   # Handles non-numeric input 
-   # Prevents division by zero
+   - Handles non-numeric input 
+   - Prevents division by zero
